@@ -1,0 +1,3 @@
+/home/sai/cppcodes/buildnew/CMakeFiles/maths.dir
+/home/sai/cppcodes/buildnew/CMakeFiles/edit_cache.dir
+/home/sai/cppcodes/buildnew/CMakeFiles/rebuild_cache.dir
